@@ -34,4 +34,4 @@
             System.out.println("Aantal nullen: " + nul);
         }
     }
-    
+
